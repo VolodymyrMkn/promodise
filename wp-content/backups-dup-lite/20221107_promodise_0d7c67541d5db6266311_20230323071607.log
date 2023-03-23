@@ -1,0 +1,73 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 23.03.2023 07:16
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.0
+WORDPRESS:	6.1.1
+PHP INFO:	8.0.18 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (1536M default) 
+MEMORY STACK: 42MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20221107_promodise_0d7c67541d5db6266311_20230323071607_database.sql
+SQL FILE SIZE: 1.68MB (1763941)
+SQL FILE TIME: 2023-03-23 07:16:44
+SQL RUNTIME: 5.68 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  W:/domains/wordpress.loc
+ARCHIVE FILE: 20221107_promodise_0d7c67541d5db6266311_20230323071607_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	106.3MB
+STATS:	Dirs 691 | Files 4,866
+SQL ADDED: 20221107_promodise_0d7c67541d5db6266311_20230323071607_database.sql
+ZipArchive Object
+(
+    [lastId] => 5556
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 5557
+    [filename] => W:\domains\wordpress.loc\wp-content\backups-dup-lite\tmp\20221107_promodise_0d7c67541d5db6266311_20230323071607_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 5556
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 40.52MB
+ARCHIVE RUNTIME: 83.94 sec.
+MEMORY STACK: 44MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 1.68MB
+INSTALLER FILE: 73.36KB
+ARCHIVE FILE: 42.35MB 
+EXPECTED FILE/DIRECTORY COUNT: 5,557
+ACTUAL FILE/DIRECTORY COUNT: 5,556
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[2]
+TOTAL PROCESS RUNTIME: 91.47 sec.
+PEAK PHP MEMORY USED: 46MB
+DONE PROCESSING => 20221107_promodise 23.03.2023 07:18
+
